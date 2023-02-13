@@ -1,0 +1,99 @@
+.body{
+    margin: 0;
+    display: flex;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    width: 1024;
+    padding: 15x;
+}
+.left_side{
+    padding: 25px;
+    background-color: rgb(169, 202, 169);
+    width: 22%;
+}
+
+.photo{
+    display: flex;
+justify-content: center;
+}
+.photo_img{
+    width: 200px;
+    border-radius: 50%;
+    border: #ffffff 2px solid;
+}
+.Surname{
+color: #ffffff;
+}
+
+.Contact_divider{
+    width: 230px; 
+    margin-bottom: 15px;
+}
+.Contact{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
+.Contact_divider_2{
+    vertical-align: middle;
+    width: 230px; 
+    margin-bottom: 15px;
+}
+.Phone_number{
+    color: black ;  
+}
+.phone_text{
+    color: #ffffff;
+}
+.e-mail{
+    color:black ;
+}
+.e-mail_text{
+    color: #ffffff;
+}
+.city{
+    color:black ;
+}
+.city_text{
+    color: #ffffff;
+}
+.language_divider{
+    width: 230px; 
+    margin-bottom: 15px;
+}
+.language{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
+.language_divider_2{
+    width: 230px; 
+    margin-bottom: 15px;
+}
+.english_ukraine{
+    color:black ;
+}
+.english_ukraine_language_text{
+    color: #ffffff;
+}
+.right_side{
+    width: 35%;
+    padding: 25px;
+}
+.Info_profile{
+    color: 	black
+}
+.Title{
+    color: 	black
+}
+.Experience{
+    color: 	black
+}
+.Education{
+    color: 	black
+}
+.Education_list{
+    color: 	black
+}
